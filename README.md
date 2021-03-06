@@ -1,2 +1,2 @@
-# CSS-
+# CSS1
 CSS Practice 
